@@ -23,7 +23,7 @@
 
 ### Regulators for collector motors 
 
-2x [url](https://aliexpress.ru/item/32836058337.html?sku_id=10000001555920204&spm=a2g2w.productlist.search_results.0.3d114aa6VxFt4V)
+2x [3,0-9,4v 2 кГц, 20 А](https://aliexpress.ru/item/32836058337.html?sku_id=10000001555920204&spm=a2g2w.productlist.search_results.0.3d114aa6VxFt4V)
 
 ### Battery
 
