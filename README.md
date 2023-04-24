@@ -72,6 +72,17 @@
 > [thingiverse](https://www.thingiverse.com/thing:4281243)
 ---
 
-## Shopping cart
+## Components
 
-...
+### Motion
+
+2x [DC 6v 15-1000rpm](https://aliexpress.ru/item/33022320164.html?sku_id=67220518204&spm=a2g2w.productlist.search_results.0.6eee4aa6MtHttf) 
+
+### Battery
+
+[LiPo 7,4v 500mah](https://aliexpress.ru/item/32934995957.html?sku_id=66219204546&spm=a2g2w.productlist.search_results.8.7b734aa6YVuiw5)
+
+### Motion driver
+
+2x [url](https://aliexpress.ru/item/32836058337.html?sku_id=10000001555920204&spm=a2g2w.productlist.search_results.0.3d114aa6VxFt4V)
+
