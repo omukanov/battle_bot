@@ -93,3 +93,8 @@
 ![image info](./img/featured_preview_34.jpg)
 > [thingiverse](https://www.thingiverse.com/thing:4281243)
 ---
+
+### Other
+
+- [A look at some Antweight Battlebots - AWS64](https://www.youtube.com/watch?v=rqdtxYDCc3Y&ab_channel=HHills)
+- 
