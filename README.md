@@ -96,5 +96,4 @@
 
 ### Other
 
-- [A look at some Antweight Battlebots - AWS64](https://www.youtube.com/watch?v=rqdtxYDCc3Y&ab_channel=HHills)
-- 
+> [A look at some Antweight Battlebots - AWS64](https://www.youtube.com/watch?v=rqdtxYDCc3Y&ab_channel=HHills)
