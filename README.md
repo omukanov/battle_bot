@@ -15,6 +15,24 @@
 
 - [Боевые боты в весовой категории «Муравей». Материалы и комплектующие⁠⁠](https://pikabu.ru/story/boevyie_botyi_v_vesovoy_kategorii_muravey_materialyi_i_komplektuyushchie_7234572)
 
+## Components
+
+### Motor 
+
+2x [DC 6v 15-1000rpm](https://aliexpress.ru/item/33022320164.html?sku_id=67220518204&spm=a2g2w.productlist.search_results.0.6eee4aa6MtHttf)
+
+### Regulators for collector motors 
+
+2x [url](https://aliexpress.ru/item/32836058337.html?sku_id=10000001555920204&spm=a2g2w.productlist.search_results.0.3d114aa6VxFt4V)
+
+### Battery
+
+[LiPo 7,4v 500mah](https://aliexpress.ru/item/32934995957.html?sku_id=66219204546&spm=a2g2w.productlist.search_results.8.7b734aa6YVuiw5)
+
+### RC
+
+???
+
 ## Example Antweight
 
 ### Flipper
@@ -71,21 +89,3 @@
 ![image info](./img/featured_preview_34.jpg)
 > [thingiverse](https://www.thingiverse.com/thing:4281243)
 ---
-
-## Components
-
-### Motor 
-
-2x [DC 6v 15-1000rpm](https://aliexpress.ru/item/33022320164.html?sku_id=67220518204&spm=a2g2w.productlist.search_results.0.6eee4aa6MtHttf)
-
-### Regulators for collector motors 
-
-2x [url](https://aliexpress.ru/item/32836058337.html?sku_id=10000001555920204&spm=a2g2w.productlist.search_results.0.3d114aa6VxFt4V)
-
-### Battery
-
-[LiPo 7,4v 500mah](https://aliexpress.ru/item/32934995957.html?sku_id=66219204546&spm=a2g2w.productlist.search_results.8.7b734aa6YVuiw5)
-
-### RC
-
-???
