@@ -17,11 +17,11 @@
 
 ## Components
 
-### Motor 
+### Motor
 
 2x [DC 6v 15-1000rpm](https://aliexpress.ru/item/33022320164.html?sku_id=67220518204&spm=a2g2w.productlist.search_results.0.6eee4aa6MtHttf)
 
-### Regulators for collector motors 
+### Regulators for collector motors
 
 2x [3,0-9,4v 2 кГц, 20 А](https://aliexpress.ru/item/32836058337.html?sku_id=10000001555920204&spm=a2g2w.productlist.search_results.0.3d114aa6VxFt4V)
 
@@ -45,7 +45,6 @@
 > [thingiverse](https://www.thingiverse.com/thing:3933072)
 ---
 
-
 ![image info](./img/bf08522c6434f6e20a23723841fd41c3_preview_featured.jpg)
 > [thingiverse](https://www.thingiverse.com/thing:3186849)
 ---
@@ -56,11 +55,9 @@
 > [thingiverse](https://www.thingiverse.com/thing:3972258), [video](https://www.youtube.com/watch?v=13UjobReqhA&ab_channel=AlexKorvinWorkshop)
 ---
 
-
 ![image info](./img/featured_preview_150g_drum.jpg)
 > [thingiverse](https://www.thingiverse.com/thing:5240385)
 ---
-
 
 ### Horizontal Spinner
 
@@ -73,7 +70,6 @@
 ![image info](./img/featured_preview_kraken.jpg)
 > [thingiverse](https://www.thingiverse.com/thing:4308902)
 ---
-
 
 ### Fork Wedge
 
